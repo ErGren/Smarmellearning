@@ -6,8 +6,8 @@ import pawtropolis.map.domain.Room;
 
 public class GameController {
 
-	private Room entry;
-	private Player player;
+	private final Room entry;
+	private final Player player;
 
 	public GameController(Room entry, Player player) {
 		this.entry = entry;

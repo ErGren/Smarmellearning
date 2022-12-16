@@ -1,13 +1,13 @@
-package pawtropolis;
+package pawtropolis.simple;
 
-import pawtropolis.animals.domain.AnimalWithTail;
-import pawtropolis.animals.domain.Eagle;
-import pawtropolis.animals.domain.Lion;
-import pawtropolis.animals.domain.Tiger;
-import pawtropolis.animals.ZooController;
-import pawtropolis.game.GameController;
-import pawtropolis.game.domain.Player;
-import pawtropolis.map.domain.Room;
+import pawtropolis.simple.animals.domain.Tiger;
+import pawtropolis.simple.game.GameController;
+import pawtropolis.simple.game.domain.Player;
+import pawtropolis.simple.animals.domain.AnimalWithTail;
+import pawtropolis.simple.animals.domain.Eagle;
+import pawtropolis.simple.animals.domain.Lion;
+import pawtropolis.simple.animals.ZooController;
+import pawtropolis.simple.map.domain.Room;
 
 import java.time.LocalDate;
 

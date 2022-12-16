@@ -1,8 +1,8 @@
-package pawtropolis.animals.domain;
+package pawtropolis.simple.animals.domain;
 
 import java.time.LocalDate;
 
-public abstract class AnimalWithTail extends Animal{
+public abstract class AnimalWithTail extends Animal {
 	private double tailLength;
 
 	public AnimalWithTail(String name, String favoriteFood, int age, LocalDate joinDate, double weight, double height, double tailLength) {

@@ -1,6 +1,7 @@
-package pawtropolis.animals;
+package pawtropolis.simple.animals;
 
-import pawtropolis.animals.domain.*;
+import pawtropolis.simple.animals.domain.*;
+import pawtropolis.simple.animals.domain.Eagle;
 
 import java.util.ArrayList;
 import java.util.List;

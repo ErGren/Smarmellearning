@@ -1,5 +1,7 @@
 # Lezione speciale: Pokémon AO e Pokémon DAJE
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](./asset/logo_lezione_pokemon.png)
+
 ## Obiettivi
 Sviluppare un semplice gioco a tema Pokémon, dotato di DB, front-end web e back-end con API REST, sia proprie esposte che invocate verso sistemi esterni.
 

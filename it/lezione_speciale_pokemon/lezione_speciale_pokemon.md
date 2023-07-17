@@ -47,20 +47,23 @@ I database di entrambi i giochi rifletteranno questo scambio effettuato.
 ## Dominio
 
 ### Pokémon
+- id: integer
 - nome: string
 - sprite: image
 - HP attuali: integer
 - HP massimi: integer
 - tipo: **Type**
-- mosse (min 1, max 4): **Move**
+- mosse (min 1, max 4): **Move[ ]**
 - nome allenatore originario: string
 
 ### Move
+- id: integer
 - nome: string
 - tipo: **Type**
 - potenza: integer
 
 ### Type
+- id: integer
 - nome: string
 - icona: image
 

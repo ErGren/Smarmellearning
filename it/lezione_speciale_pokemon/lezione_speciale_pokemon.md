@@ -40,9 +40,10 @@ Detti pokémon sono disposti in sequenza, in una griglia di 6 slot (squadra), e 
 
 ### Scambio
 Il giocatore di **Pokémon AO**, tramite il click di un tasto nella UI, può scegliere di avviare uno scambio di Pokémon.  
-Uno dei Pokémon del giocatore di **Pokémon AO** verrà scambiato con uno di quelli del giocatore di **Pokémon DAJE**, entrambi scelti a caso dai rispettivi giochi (il Pokémon viene scelto dal gioco che lo invia).  
+Uno dei Pokémon del giocatore di **Pokémon AO** verrà scambiato con uno di quelli del giocatore di **Pokémon DAJE**, entrambi scelti a caso fra i 6 delle squadre dei rispettivi giochi (il Pokémon viene scelto dal gioco che lo invia).  
 Al termine dello scambio le UI di entrambi i giochi risulteranno aggiornate rispetto allo scambio avvenuto, con il Pokémon ricevuto nella posizione di quello inviato, mostrando le relative informazioni.  
-I database di entrambi i giochi rifletteranno questo scambio effettuato.
+I database di entrambi i giochi rifletteranno questo scambio effettuato.  
+Si precisa che esclusivamente il giocatore di **Pokémon AO** può avviare uno scambio e, di conseguenza, solamente il giocatore di **Pokémon DAJE** può ricevere una richiesta di scambio.
 
 ## Dominio
 
